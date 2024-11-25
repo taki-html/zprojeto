@@ -1,10 +1,9 @@
-@import './layout/nav.css';
 @import './layout/galeria.css';
 @import './core/animation.css';
-@import './layout/pitch.css';
+@import './layout/nav.css';
 @import './core/index.css';
 @import './layout/expl.css';
-
+@import './layout/pitch.css';
 
 *{
     margin: 0;
