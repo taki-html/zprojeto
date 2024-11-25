@@ -1,0 +1,37 @@
+@import './layout/_nav.css';
+@import './layout/_galeria.css';
+@import './core/animation.css';
+@import './layout/_pitch.css';
+@import './core/_index.css';
+@import './layout/_expl.css';
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -ms-overflow-style: none; 
+    scrollbar-width: none;  
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	margin: 0px;
+    color: aliceblue;
+	background-color: black;
+    
+}
+
+
+
+
+
+
+	
+

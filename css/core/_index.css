@@ -1,0 +1,43 @@
+main{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.texto {
+	position: relative;
+	margin-top: 300px;
+	margin-left: 200px;
+	margin-right: 200px;
+	background: #1c1f2b;
+	border-radius: 10px;
+	padding: 2em;
+	font-size: large; 
+	color: rgb(255, 255, 255);
+	font-family: "Bungee", sans-serif;
+}
+
+.logos{
+	display: inline-block;
+	position: relative;
+	bottom: -250px;
+	left: 400px;
+}
+
+.logos img{
+	margin: 50px;
+}
+
+.integrantes{
+	position: relative;
+    display: flex;
+	left: 100px;
+	top: 140px;
+	width: 1700px;
+	height: 700px;
+	z-index: -1;
+	padding: 0px;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	gap: 90px;
+}
